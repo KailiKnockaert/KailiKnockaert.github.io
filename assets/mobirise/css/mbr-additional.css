@@ -420,6 +420,14 @@ h6,
 }
 #header5-c .mbr-section-lead {
   color: #9c9a9a;
+  text-align: left;
+}
+#social-buttons3-20 .mbr-section-title,
+#social-buttons3-20 .btn-social {
+  color: #fff;
+}
+#form1-23 .form-control-label {
+  color: #232323;
 }
 #header1-0 .mbr-section-lead {
   color: #ffffff;
