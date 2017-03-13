@@ -493,21 +493,23 @@ h6,
 #header2-25 .mbr-section-text {
   text-align: right;
 }
-#header1-d .mbr-section-lead {
+#header1-26 .mbr-section-lead {
   color: #ffffff;
   text-align: center;
 }
-#header5-e .mbr-section-title {
+#header5-27 .mbr-section-title {
   color: #efefef;
 }
-#header5-e .mbr-section-lead {
+#header5-27 .mbr-section-lead {
   color: #9c9a9a;
+  text-align: left;
 }
-#header5-p .mbr-section-title {
-  color: #000;
+#social-buttons3-2f .mbr-section-title,
+#social-buttons3-2f .btn-social {
+  color: #fff;
 }
-#header5-p .mbr-section-lead {
-  color: #9c9a9a;
+#form1-2g .form-control-label {
+  color: #232323;
 }
 #header1-q .mbr-section-lead {
   color: #ffffff;
