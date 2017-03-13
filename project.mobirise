@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page4.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
         },
         {
           "_tags": [
@@ -675,7 +675,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page4.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
         },
         {
           "_tags": [
@@ -693,7 +693,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x132982.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x1329103.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -764,7 +764,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x132963.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x132984.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -778,7 +778,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x132964.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x132985.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -792,7 +792,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x132965.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x132986.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -840,8 +840,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x53266.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x133068.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x53287.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x133089.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -850,8 +850,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x53267.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x133069.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x53288.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x133090.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -883,8 +883,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x55270.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x138174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x55291.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x138195.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -893,8 +893,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x55271.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x138275.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x55292.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x138296.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -903,8 +903,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x53672.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x134176.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x53693.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x134197.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -913,8 +913,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x53273.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x133077.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x53294.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x133098.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -946,8 +946,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x50878.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x127280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x50899.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272101.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -956,8 +956,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x52879.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x528100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1321102.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -987,7 +987,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132983.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1329104.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1270,7 +1270,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page4.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
         },
         {
           "_tags": [
