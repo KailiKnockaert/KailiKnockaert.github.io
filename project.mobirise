@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2eng.html",
     "versionFirst": "3.8.2",
-    "uniqCompNum": 97,
+    "uniqCompNum": 105,
     "versionPublish": "3.12.1",
     "name": "My Site",
     "theme": {
@@ -32,15 +32,321 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
-    "index.html": {
+    "page4stefnl.html": {
       "settings": {
-        "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
+        "title": "Web Site Builder Title",
+        "meta_descr": "Web Site Builder Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-2r",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stef-1.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Stefaan Vanfleteren",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2s",
+          "_params": {
+            "imageSize": "54",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hondje.jpeg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Life",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Stefaan Vanfleteren is geboren in Kortijk in 1969, hij is een van de meest bekende Belgische fotografen. Hij &nbsp;is afgestudeerd in Sint-Lucas te Brussel. Het harde leven van sommige mensen is echt te zien in zijn foto's, hij is mijn inspiratie geweest om mij camera vaak bij te hebben. Dankzij Stefaan Vanfleteren heb ik geleerd om anders naar mijn regio te kijken en ze vast te leggen zoals hij is. Je kan een sterke gelijkenis zien in onze fotografie, we werken allebij in reeksen. &nbsp; &nbsp;&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stefaan.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x1013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x632.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-5.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x671.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-hd.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-800x671.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-2u",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
+        }
+      ]
+    },
+    "page5stefeng.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description",
+        "order": 6
       },
       "components": [
         {
@@ -136,12 +442,255 @@
           ],
           "_name": "header1",
           "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-2j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stef-117.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Stefaan Vanfleteren",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2k",
+          "_params": {
+            "imageSize": "54",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hondje0.jpeg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Life",
+          "text": "Stefaan Vanfleten was born in Kortrijk in 1969, he is one of the most known Belgium photografers all over the world. He studied at Sint-Lucas in Brussels. He usually works in black and white, with his work he tries to sketch an image of Belgium. The hard life some people live rellay speak in his pictures.<br>Below you can see some of his photographs, he has been my inspiration to get my camera more often with me, thanks to Stefaan Vanfleten I leran to look different to thinks in my region and capture them as they are. You can also see we have one thing in commen is to work in series.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x5321.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stefaan7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x12012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-28.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x5303.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x10134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-410.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x6405.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x6326.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-512.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x67113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-hd15.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-800x67114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-2m",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "page2eng.html": {
+      "settings": {
+        "title": "Index engels",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
             ".mbr-section-lead": {
               "color": "#ffffff",
               "text-align": "center"
             }
           },
-          "_anchor": "header1-2",
+          "_anchor": "header1-26",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -162,8 +711,8 @@
             "showButtons": true
           },
           "title": "Kaili Knockaert",
-          "text": "Ik begin met het alledaagse verhaal dat ik al van jongs af aan bezig met met tekenen, shilderen, boetseren ect... &nbsp;In deze site overloop ik mijn fotografie.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Englisch version</a>"
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">I start with an everyday story about how I started drawing, painting and sculpturing &nbsp;</span>since I was a child. O<span style=\"font-size: 1.5rem; line-height: 1.5;\">n this site I lead you to my photographs.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page3bioeng.html\" data-toolbar=\"-mbrBtnMove\">Biografie</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page5stefeng.html\" data-toolbar=\"-mbrBtnMove\">Inspiration</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"indexnl.html\" data-toolbar=\"-mbrBtnMove\">Dutch version</a>"
         },
         {
           "_inherit": "header1",
@@ -180,7 +729,7 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-c",
+          "_anchor": "header5-27",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -200,8 +749,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Fotografie",
-          "text": "Bij het fotograferen werk ik graag rond thema's. Ik heb gewerkt rond het thema steen, garages, de puurheid van Vlaanderen weer te geven, ect...<br>Ik voel mij&nbsp;vooral geinspireerd door de steen.<br>In heel veel zaken komt de materie steen voor, echter bij twee uiterste: natuur &amp; gebouwen. <br>De natuur die de steen vormt en de mens die van de aarde een stennen blok maakt.<br>",
+          "title": "Photography",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Within photography I like to work around themes. I have worked around the theme stones, garages, I have tried to express the purity of Flanders, etc...</span><br>I feel very inspired by stones.<br>In alot of things the matter stone comes along, especially in two extremes: nature &amp; buildings.<br>Nature forming the stone and humans creating stone from earth.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -262,7 +811,7 @@
             "bgColor": "#000000",
             "showBullets": true
           },
-          "_anchor": "slider3-1k",
+          "_anchor": "slider3-28",
           "articleLayout": false
         },
         {
@@ -270,13 +819,13 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1x",
+          "_anchor": "content1-29",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Deze 3 luik van zuilen heb ik gefotografeerd in Italië, tijdens eens een uitstap in Rome. Ik heb me geconcenteerd op de lichtinval die op de zuil verschijnt binnenin de kerk.</p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This triptych of columns I photographed in Italy, on a trip to Rome. I concentrated on the light that shines on the columns inside the church.</span><br></p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -317,7 +866,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-1u",
+          "_anchor": "gallery4-2a",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -380,7 +929,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-1w",
+          "_anchor": "gallery3-2b",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -423,7 +972,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-1r",
+          "_anchor": "gallery4-2c",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -457,553 +1006,6 @@
             "bgColor": "#000000",
             "showBullets": false
           },
-          "_anchor": "slider-1y",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2014-2015 heb ik mijn eerste reeks zwart-wit foto's van garages gefotografeerd. Ik heb onderzoek gedaan in Brugge waar ik de puurheid van Vlaanderen kan ervaren. En wat voor mij typeerde waren die garageboxen die er om elke straat hoek staan. Het zoektocht ernaar was zeer interresant, ik kwam op plekken die ik nog nooit had gezien, en waarschijnlijk veel mensen ook nooit zouden zien. Die geheime plekken hadden ook z'n charme en schoonheid. Eigenlijk is het voor de mens die er geen garage heeft praktisch verboden om er te zijn. Het interresante is nu dat ik die plekken aan mensen kan aantonnen. Want voor velen is het een gewone plaats waar men zijn auto stoceerd.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2015-2016 heb een reeks foto's gemaakt van het zelfde thema maar in Gent en in kleur. De zelfde gedachten nam ik mee op mijn uitstapjes opzoek naar garageboxen.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ik vind het een boeiend iets, en zal nog foto's blijven nemen.</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ik neem aan dat er in Wallonië ook z'n autoboxen staan, misschien hebben die gelijkenis of zijn die juist heel verschillend?</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Misschien wordt dat mijn volgend onderzoek?</i></span></font></p>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-20",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-23",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "kaili@live.be",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-o",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header1-26",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x1329145.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Kaili Knockaert",
-          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">I start with an everyday story that since I was a child I started drawing, painting an sculpturing ect... In this site I lead you to my photographs.</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Dutch version</a>"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a",
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-27",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Photography",
-          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Within photografie I like to work in themes. I have worked around the theme stones, garages, I have tried to express the purity of Flanders, ect...</span><br>I feel very inspired by stones.<br>In alot of things the materie stone comes along, specialy in two extreems: nature &amp; buildings.<br>The nature that every stone forms and the man die from the earth a concreet jungle makes.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "timeout": "5",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x1329126.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x1329127.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x1329128.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#000000",
-            "showBullets": true
-          },
-          "_anchor": "slider3-28",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-29",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This triptych of columns I photographed in Italy, on a trip to Rome. I concentraded on the light that shines on the columns inside the church.</span><br></p></blockquote>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x532129.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330131.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x532130.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330132.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "4",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-2a",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x552133.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381137.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x552134.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382138.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x536135.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341139.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x532136.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330140.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2b",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x508141.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272143.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x528142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1321144.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "4",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-2c",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1329146.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#000000",
-            "showBullets": false
-          },
           "_anchor": "slider-2d",
           "articleLayout": false
         },
@@ -1018,7 +1020,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">In 2014-2015 I photographed my first serie of black and with pictures of the Flemisch garages. I have done research in Bruges, where I can experiance the purity of Flanders. What stand out the most is that in every conner of a street there's a garagebox. The search to all this hidden places was very interesting, I had found myself in places where I neven been, and ik know alot of people nerver will get to see. Those hidden places had such a charm and beautiful caracter. Actually for the people who don't have a garage it is forbidden to be there. Tha interesting fact is now I can show those places to people now. Because for many people it's just a place where you stack your car.</i><br></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2015-2016 I made the same research in Ghent but I let he pictures in color. With the same thought I went on my little trips on search to garageboxes.&nbsp;</i></span></font></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I think it's very fascinating, I keep on making photographs.</i></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I take for granted that there're autoboxes in Wallonie, maybe they have simularities of maybe they are just all very diferent then the garages in Flanders?</i></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I think that will be my new research?<br></i><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">&nbsp;</i></p>"
+          "text": "<p><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">In 2014-2015 I photographed my first series of black and white pictures of the Flemisch garages. I have done research in Bruges, where I could experience the purity of Flanders. What stands out the most is that in every conner of a street there is a garagebox. The search to all these hidden places was very interesting, I had found myself in places where I'd neven been before, and I know alot of people will never get to see. Those hidden places had such a charm and beautiful character. Actually, for the people who don't have a garage, it is forbidden to be there. The interesting fact is that, now, I can show those places to people.&nbsp;</i><br></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2015-2016 I made the same research in Ghent but I made the pictures in color. With the same thought I went on my little trips, on my search to garageboxes.&nbsp;</i></span></font></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I think it's very fascinating, I will keep on making photographs.</i></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I take for granted that there are autoboxes in Wallonie, maybe they have simularities or maybe they are very diferent from the garages in Flanders?</i></p><p><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">I think that will be my new research?<br></i><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">&nbsp;</i></p>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1110,7 +1112,604 @@
         }
       ]
     },
-    "page3.html": {
+    "indexnl.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x132937.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Kaili Knockaert",
+          "text": "Ik begin met het alledaagse verhaal dat ik al van jongs af aan bezig ben met tekenen, shilderen, boetseren etc... &nbsp;In deze site overloop ik mijn fotografie.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page5bionl.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Biografie</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page4stefnl.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inspiratie</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2eng.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Englisch version</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Fotografie",
+          "text": "Bij het fotograferen werk ik graag rond thema's. Ik heb gewerkt rond het thema steen, garages, de puurheid van Vlaanderen weer te geven, etc...<br>Ik voel mij&nbsp;vooral geïnspireerd door de steen.<br>In heel veel zaken komt de materie steen voor, echter bij twee uitersten: natuur &amp; gebouwen. <br>De natuur die de steen vormt en de mens die van de aarde een stenen blok maakt.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "timeout": "5",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x132918.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x132919.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x132920.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider3-1k",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Deze 3 luik van zuilen heb ik gefotografeerd in Italië, tijdens een uitstap in Rome. Ik heb me geconcenteerd op de lichtinval die op de zuil verschijnt binnenin de kerk.</p></blockquote>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x53221.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x133023.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x53222.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x133024.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1u",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x55225.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x138129.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x55226.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x138230.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x53627.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x134131.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x53228.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x133032.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x50833.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x127235.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x52834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132136.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132938.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-1y",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2014-2015 heb ik mijn eerste reeks zwart-wit foto's van garages gefotografeerd. Ik heb onderzoek gedaan in Brugge, waar ik de puurheid van Vlaanderen kan ervaren. Ik vond de garageboxen die om elke straathoek staan erg typerend. De zoektocht ernaar was zeer interessant, ik kwam op plekken die ik nog nooit had gezien en waarschijnlijk ook door veel mensen nooit gezien zouden worden. Die geheime plekken hadden ook z'n charme en schoonheid. Eigenlijk is het voor mensen die er geen garage hebben praktisch verboden om er te komen. Het interessante is dat ik die plekken nu aan mensen kan tonen.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In 2015-2016 heb ik een reeks foto's gemaakt van het zelfde thema maar in Gent en deze keer in kleur. De zelfde gedachten nam ik mee op mijn uitstapjes opzoek naar garageboxen.&nbsp;</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ik vind het een boeiend iets en zal nog foto's blijven nemen.</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ik neem aan dat er in Wallonië ook zo'n autoboxen staan, misschien hebben die gelijkenissen of zijn die juist heel verschillend?</i></span></font></p><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Misschien wordt dat mijn volgend onderzoek?</i></span></font></p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-23",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "kaili@live.be",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        }
+      ]
+    },
+    "page5bionl.html": {
+      "settings": {
+        "title": "Web Page Maker Title",
+        "meta_descr": "Web Page Maker Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2v",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header2-2w",
+          "_params": {
+            "imageSize": "57",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-0193-bewerkt-beste-1.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">I heb een passie voor fotografie, die is begonnen dankzij mijn kunstopleidingen, ik heb vrije kunsten gestudeerd in de Maricolen te Brugge. Daarna (2015-2016) heb ik me gewaagd aan een jaar schilderkunst in Sint-Lucas in Gent. Het jaar daarop (2016-2017) ben ik begonnen aan een opleiding sculptuur. Doorheen deze verschillende opleidingen heb ik een aantal lessen gekregen van fotografie. Waar ik me kon ontwikkelen en vormen. Waar mijn interesse vlak is begonnen. Ik heb mezelf bezig gehouden met het maken van fotoreeksen zoals ik die nu hanteer met steen. &nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "page3bioeng.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -1176,315 +1775,6 @@
           "title": "",
           "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">I &nbsp;have a passion for photography, and that started &nbsp;since my first education of arts in Highschool. Afther my education of free arts in Maricolen I tried a year of painting in Sint-Lucas. In the nex year of 2016-2017 I change cours and started &nbsp;in &nbsp;sculpture. Through all these differents courses &nbsp;I had lessons of Photography. Where I could develope and form myself, where my interess began. I keep myself busy with making series of photographs with e specifiek subject as like wise I now do with stones. &nbsp; &nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2j",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stef-1.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Stefaan Vanfleteren",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-2k",
-          "_params": {
-            "imageSize": "54",
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hondje.jpeg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Life",
-          "text": "Stefaan Vanfleten was born in Kortrijk in 1969, he is one of the most known Belgium photografers all over the world. He studied at Sint-Lucas in Brussels. He usually works in black and white, with his work he tries to sketch an image of Belgium. The hard life some people live rellay speak in his pictures.<br>Below you can see some of his photographs, he has been my inspiration to get my camera more often with me, thanks to Stefaan Vanfleten I leran to look different to thinks in my region and capture them as they are. You can also see we have one thing in commen is to work in series.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stefaan.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x1201.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-2.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x530.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-3.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x1013.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-4.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x632.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-5.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2l",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x671.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-hd.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-800x671.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "4",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#ffffff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-2m",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     }
