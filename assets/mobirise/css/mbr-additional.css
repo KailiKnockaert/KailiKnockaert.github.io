@@ -490,8 +490,66 @@ h6,
 #form1-23 .form-control-label {
   color: #232323;
 }
-#header2-25 .mbr-section-text {
-  text-align: right;
+#ext_menu-24 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-24 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-24 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-24 .close-icon::before,
+#ext_menu-24 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-24 .link,
+#ext_menu-24 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-24 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-24 .dropdown-item,
+#ext_menu-24 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-24 .link:hover,
+#ext_menu-24 .dropdown-item:hover,
+#ext_menu-24 .link:focus,
+#ext_menu-24 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-24 .link[aria-expanded="true"],
+#ext_menu-24 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-24 .nav-dropdown-sm .link:focus,
+#ext_menu-24 .nav-dropdown-sm .link:hover,
+#ext_menu-24 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-24 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-24 .navbar,
+#ext_menu-24 .nav-dropdown-sm,
+#ext_menu-24 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-24 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-24 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-24 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-24 .bg-color.transparent.opened .link:hover,
+#ext_menu-24 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-24 .link[aria-expanded="true"],
+#ext_menu-24 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
 }
 #header1-26 .mbr-section-lead {
   color: #ffffff;
@@ -511,35 +569,6 @@ h6,
 #form1-2g .form-control-label {
   color: #232323;
 }
-#header1-q .mbr-section-lead {
-  color: #ffffff;
-  text-align: center;
-}
-#header5-r .mbr-section-title {
-  color: #efefef;
-}
-#header5-r .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-12 .mbr-section-title {
-  color: #000;
-}
-#header5-12 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header1-13 .mbr-section-lead {
-  color: #ffffff;
-  text-align: center;
-}
-#header5-14 .mbr-section-title {
-  color: #efefef;
-}
-#header5-14 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-1f .mbr-section-title {
-  color: #000;
-}
-#header5-1f .mbr-section-lead {
-  color: #9c9a9a;
+#header2-2h .mbr-section-text {
+  text-align: right;
 }
