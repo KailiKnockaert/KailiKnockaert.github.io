@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2eng.html",
+    "currentPage": "indexnl.html",
     "versionFirst": "3.8.2",
     "uniqCompNum": 105,
     "versionPublish": "3.12.1",
@@ -452,7 +452,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stef-117.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stef-156.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -502,7 +502,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hondje0.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/hondje39.jpeg",
               "link": "",
               "alt": "",
               "title": "",
@@ -539,8 +539,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x5321.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stefaan7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x53240.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stefaan46.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -549,8 +549,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x12012.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x120141.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-247.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -559,8 +559,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x5303.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-39.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x53042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-348.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -569,8 +569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x10134.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x101343.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-449.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -579,8 +579,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x6405.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x64044.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde50.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -589,8 +589,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x6326.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-512.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x63245.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-551.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -622,8 +622,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x67113.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-hd15.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x67152.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-hd54.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -632,8 +632,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-800x67114.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef16.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-800x67153.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef55.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1139,7 +1139,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x132937.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x132976.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1210,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x132918.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x132957.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1224,7 +1224,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x132919.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x132958.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1238,7 +1238,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x132920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x132959.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1286,8 +1286,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x53221.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x133023.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x53260.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x133062.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1296,8 +1296,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x53222.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x133024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x53261.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x133063.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1329,8 +1329,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x55225.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x138129.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x55264.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x138168.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1339,8 +1339,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x55226.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x138230.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x55265.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x138269.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1349,8 +1349,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x53627.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x134131.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x53666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x134170.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1359,8 +1359,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x53228.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x133032.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x53267.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x133071.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1392,8 +1392,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x50833.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x127235.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x50872.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x127274.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1402,8 +1402,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x52834.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132136.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x52873.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132175.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1433,7 +1433,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132938.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x132977.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
