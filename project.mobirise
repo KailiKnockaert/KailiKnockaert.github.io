@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "indexnl.html",
+    "currentPage": "page5stefeng.html",
     "versionFirst": "3.8.2",
     "uniqCompNum": 105,
     "versionPublish": "3.12.1",
@@ -252,93 +252,6 @@
           "_anchor": "gallery4-2u",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2q",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
         }
       ]
     },
@@ -349,93 +262,6 @@
         "order": 6
       },
       "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
-        },
         {
           "_tags": [
             "Theme"
@@ -452,7 +278,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stef-1134.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stef-1173.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -502,7 +328,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hondje117.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/hondje156.jpeg",
               "link": "",
               "alt": "",
               "title": "",
@@ -539,8 +365,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x532118.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stefaan124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stefaan-800x532157.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stefaan163.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -549,8 +375,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x1201119.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-2125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-2-800x1201158.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-2164.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -559,8 +385,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x530120.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-3126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-3-800x530159.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-3165.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -569,8 +395,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x1013121.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-4127.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-4-800x1013160.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-4166.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -579,8 +405,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x640122.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde128.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-lombazijde-800x640161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-lombazijde167.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -589,8 +415,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x632123.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-5129.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-5-800x632162.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-5168.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -622,8 +448,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x671130.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef-hd132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-hd-800x671169.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef-hd171.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -632,8 +458,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stef-800x671131.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stef133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stef-800x671170.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stef172.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1139,7 +965,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x1329154.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rome-2015-079-bewerkt-2000x1329193.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1036,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x1329135.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-258-bewerkt-2000x1329174.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1224,7 +1050,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x1329136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-195-bewerkt-2000x1329175.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1238,7 +1064,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x1329137.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rome-2015-141-bewerkt-2000x1329176.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1286,8 +1112,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x532138.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330140.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330-800x532177.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0147-bewerkt-2000x1330179.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1296,8 +1122,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x532139.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330141.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330-800x532178.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0145-bewerkt-2000x1330180.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1329,8 +1155,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x552142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381146.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381-800x552181.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0108-bewerkt-2000x1381185.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1339,8 +1165,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x552143.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382147.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382-800x552182.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0119-bewerkt-2000x1382186.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1349,8 +1175,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x536144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341148.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341-800x536183.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0120-bewerkt-2000x1341187.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1359,8 +1185,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x532145.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330149.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330-800x532184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0057-bewerk-2000x1330188.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1392,8 +1218,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x508150.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272152.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272-800x508189.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7909-bewerkt-2000x1272191.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1402,8 +1228,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x528151.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1321153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photoshop-2000x1321-800x528190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1321192.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1433,7 +1259,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1329155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photoshop-2000x1329194.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1563,93 +1389,6 @@
         "order": 3
       },
       "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2v",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc0346-192x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page5.html\" target=\"_blank\">inspiratie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"page3.html\" target=\"_blank\">Biografie</a></li>"
-        },
         {
           "_tags": [
             "Theme"
